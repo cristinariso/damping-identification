@@ -5,7 +5,7 @@ This repository contains test cases for various damping identification methods.
 
 This folder contains helper functions.
 
-## Linear SDOF Test Cases
+## Linear SDOF 
 
 This folder contains scripts for testing linear damping identification methods on time histories representative of a linear SDOF system without noise. 
 

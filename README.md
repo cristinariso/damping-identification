@@ -1,4 +1,5 @@
-# Test Case Damping Identification
+# Damping Identification
+
 This repository contains test cases for various damping identification methods.
 
 ## Utilities
@@ -11,7 +12,7 @@ This folder contains scripts for testing linear damping identification methods o
 
 The examined methods are the logarithmic decrement method, the matrix pencil method, and moving-block analysis. The methods are verified with the known exact solution for the system damping. 
 
-The first two references below describe the logarithmic decrement and matrix pencil methods. The other reference describes moving-block analysis.
+The first two references below describe the logarithmic decrement and matrix pencil methods. The other reference describes moving-block analysis. The last reference describes a study on the impact of nonlinear effects.
 
 ## References
 
@@ -20,6 +21,8 @@ Jacobson et al., "Evaluation of Time-domain Damping Identification Methods for F
 Kiviaho et al., "Flutter Boundary Identification from Time-Domain Simulations Using the Matrix Pencil Method," AIAA Journal, 2019. DOI: https://doi.org/10.2514/1.J058072.
 
 Bousman and Winkler, "Application of the Moving Block Analysis," AIAA Paper 1981-653, 1981. DOI: https://doi.org/10.2514/6.1981-653.
+
+Riso, "Evaluation of Whirl Flutter Prediction Methods for a System with Hardening or Softening Structural Nonlinearities," Journal of the American Helicopter Society, 2025. DOI: https://doi.org/10.4050/JAHS.70.022001.
 
 ## Contributors
 
